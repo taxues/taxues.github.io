@@ -13,5 +13,5 @@ title: 首页
 </ul>
 
 ### 存档
-- [收藏品](.archive/collections/health.md)
-- [ER相关的一切但是我有点懒得放了](.archive/true/.md)
+- [收藏品](.archive/collections/andnothinfr.md)
+- [ER相关的一切但是我有点懒得放了](.archive/true-crime-community/theresnothin.md)
