@@ -11,3 +11,7 @@ title: 首页
     </li>
   {% endfor %}
 </ul>
+
+### 存档
+- [收藏品](.archive/collections/health.md)
+- [ER相关的一切但是我有点懒得放了](.archive/true/.md)
