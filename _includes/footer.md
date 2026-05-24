@@ -1,3 +1,3 @@
-Super lightweight Jekyll theme [ultralight](https://github.com/kotet/ultralight)  
-[Twitter](https://twitter.com/kotetttt)
-| [GitHub](https://github.com/kotet)
+I am mine own redeemer.  
+[X](https://x.com/e4739ragemet)
+| [Forum](https://columbinemassacre.forumotion.com/u15725)
